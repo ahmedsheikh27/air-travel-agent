@@ -21,6 +21,8 @@ cd air-travel-agent
   # Gemini API Key (required for LLM calls)
   GEMINI_API_KEY=your_gemini_api_key_here
 
+  or
+
   # OpenAI API Key (optional, if using OpenAI models)
   OPENAI_API_KEY=your_openai_api_key_here
 
