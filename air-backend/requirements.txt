@@ -1,0 +1,8 @@
+openai
+openai-agents
+motor 
+reportlab 
+python-dotenv 
+fastapi 
+uvicorn
+qrcode
